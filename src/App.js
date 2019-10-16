@@ -8,6 +8,7 @@ function App() {
   return (
     <main>
       <h1>WEB23 is da bomb!</h1>
+      <h1>Group 1</h1>
       <h2>
         Deployed with{' '}
         <a
