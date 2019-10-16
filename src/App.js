@@ -39,6 +39,8 @@ function App() {
           <code>api/date</code> for the Date API with Go
         </a>
         .
+
+        <p>Brandy was Here!</p>
       </p>
       <br />
 
